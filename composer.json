@@ -1,5 +1,5 @@
 {
-    "name": "tobscure/json-api",
+    "name": "zdcs/json-api",
     "description": "JSON-API responses in PHP",
     "keywords": ["json", "api", "standard", "jsonapi"],
     "license": "MIT",
@@ -24,12 +24,5 @@
         "psr-4": {
             "Tobscure\\Tests\\JsonApi\\": "tests/"
         }
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "1.0-dev"
-        }
-    },
-    "minimum-stability": "dev",
-    "prefer-stable": true
+    }
 }
